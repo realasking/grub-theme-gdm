@@ -1,5 +1,5 @@
 This theme is created by Tomha, I just forked it and made several modifications.
-The original README listed below.
+The original README is listed below.
 
 # About
 

@@ -1,3 +1,6 @@
+This theme is created by Tomha, I just forked it and made several modifications.
+The original README listed below.
+
 # About
 
 GDM is a theme for the GRUB bootloader aiming to immitate the default appearance of the Gnome Display Manager user login page.

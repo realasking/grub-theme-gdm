@@ -10,7 +10,7 @@ terminal-border: "0"
 
 + boot_menu {
 	left = 50%-170
-	top = 30%
+	top = 38%
 	width = 313
 	height = 60%
 	text_color = "#9f9f9f"

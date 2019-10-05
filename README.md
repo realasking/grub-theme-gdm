@@ -1,6 +1,6 @@
 This theme is created by Tomha, I just forked it and made several modifications.
 The original README is listed below.
-![NewPreview](Screenshot_20190929_092916.png)
+![NewPreview](Screenshot_20191005_085341.png)
 
 # About
 
